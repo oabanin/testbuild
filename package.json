@@ -1,0 +1,19 @@
+{
+  "name": "testbuild-outvio-shopify-pickup1",
+  "version": "1.0.26",
+  "description": "",
+  "main": "shopify-pickup-points-widget.iife.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oabanin/testbuild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oabanin/testbuild/issues"
+  },
+  "homepage": "https://github.com/oabanin/testbuild#readme"
+}
